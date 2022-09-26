@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47v6zqmda15f1axag2gpkxteqmdrj8qpv8cfkpuwxa&rid=giphy.gif&ct=g" width="400">
+ <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47v6zqmda15f1axag2gpkxteqmdrj8qpv8cfkpuwxa&rid=giphy.gif&ct=g" width="350">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
 </p>
 
