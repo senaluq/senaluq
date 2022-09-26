@@ -1,9 +1,7 @@
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Ffree-png-pbspr&psig=AOvVaw2-4tl9DL6RX11NE_bv-EoK&ust=1664295089440000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjiicLssvoCFQAAAAAdAAAAABAD" width="500">
+ <img src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-4.png" width="500">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
-  <img src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-4.png" width="500">
-  
 </p>
 
 ---
@@ -45,23 +43,5 @@ Diseñaremos y programaremos por grupos una serie de paginas para el evento de C
 * Proyecto SASS_NAVBAR 
 ---
 
-## 📜 License
 
-Content is released under CC0-1.0. Code is released under MIT License.
-
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
-
-**senaluq/senaluq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
