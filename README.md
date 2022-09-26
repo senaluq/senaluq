@@ -9,6 +9,10 @@
 
 buenos dias este es mi repositorio de la ficha tecnica 2558346.
 
+# 🧑‍🎓 Students
+
+
+Buenos dias mi nombre es Alejandro Luque Rincon, estudiante del Sena en la sede de Centro de Biotecnologia Agropecuario  estoy ubicaco en a ficha tecnica 2558346 con el Instructor: Jorge Leonardo Castro.
 
 
 
@@ -16,6 +20,9 @@ buenos dias este es mi repositorio de la ficha tecnica 2558346.
 
 en este repositorio veremos disrintas clses de codigos y variables unos de ellos que veremos son .
 * Html5
+<p align="center">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw2PSNRK_mAi8pLqzhmk4_bX&ust=1664293401774000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiWnJvmsvoCFQAAAAAdAAAAABAM" width="500">
+</p>
 * Css
 * Js
 * SASS
@@ -31,47 +38,7 @@ en este repositorio veremos disrintas clses de codigos y variables unos de ellos
 * Drap_ Drog
 * Proyecto SASS_NAVBAR 
 
-There are many open-source projects that we might be using frequently, but unaware that it's a project that was created in or receiving significant contributions from India. We have collated some of the projects and maintainers from India on the [githubindia.com website](https://githubindia.com)
 
-If you know of any other projects or maintainers from India, feel free to make a [contribution](./CONTRIBUTING.md)
-
-### GitHub Grants for Open Source
-
-At [GitHub Satellite India 2021](https://githubsatellite.com), we announced the GitHub India Grants for Open Source to support the open source community by providing monetary grants to contributors/maintainers, with a total monetary fund of INR 1 crore.
-
-For details about the program and the grant recipients, [check out the announcement blog post](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
-
-
-### Resources
-
-If you are looking to make your first contribution to open source, or even an experienced maintainer looking for ways to grow your community — we have resources to help you! Check out the [Open Source Guide](https://opensource.guide) which has many resources on how to start an open-source project, build communities, best practices for maintainers, and a lot more!
-
----
-
-## :octocat:  Developers
-
-GitHub is the platform where millions of developers and companies build, ship and maintain their software. We help developers with the resources they need and showcase their awesome work to the rest of the community.
-
-### Meetups
-
-GitHub India Virtual Meetup group is for developers in India, by developers in India, and fuelled by the love for Open Source! [Join us on the Meetup group](https://www.meetup.com/GitHub-India/) and come check out the latest on GitHub, learn about new open source projects, and meet maintainers & GitHub staff from India.
-
-### GitHub Stars
-
-The GitHub Stars program thanks GitHub’s most influential developers and gives them a platform to showcase their work, reach more people, and shape the future of GitHub. Say hello 👋🏼 to the [GitHub Stars from India!](https://stars.github.com/profiles/?country=India)
-
-If you know an inspiring community leader, [we want to hear about it.](https://stars.github.com/nominate/)
-
-
-### The ReadME Project
-
-The ReadME Project is part of GitHub’s ongoing effort to amplify the voices of the developer community. It’s an evolving space to engage with the community and explore the stories, challenges, technology, and culture that surround the world of open source.
-
-Check out the stories of [Shikha Mishra](https://github.com/readme/shikha-mishra), [Liyas Thomas](https://github.com/readme/stories/liyas-thomas) and [Karthik Iyer](https://github.com/readme/stories/karthik-iyer) from India
-
-We’re always on the lookout for inspiring developers who passionately dedicate themselves to their communities. Know somebody whose story deserves to be told? [Let us know](https://github.com/readme/nominate), and they could end up being featured on The ReadME Project.
-
----
 
 ## 🧑‍🎓 Students
 
