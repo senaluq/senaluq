@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-4.png" width="500">
+ <img src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA" width="500">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
 </p>
 
