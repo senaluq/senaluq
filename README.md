@@ -21,7 +21,7 @@ Buenos dias mi nombre es Alejandro Luque Rincon, estudiante del Sena en la sede 
 en este repositorio veremos disrintas clses de codigos y variables unos de ellos que veremos son .
 * Html5
 <p align="center">
-<img src="https://www.pngegg.com/es/png-incoh" width="500">
+<img src="[https://www.pngegg.com/es/png-incoh](https://www.w3.org/html/logo/)" width="500">
 </p>
 * Css
 * Js
