@@ -1,8 +1,8 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+  <img src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-0.png" width="500">
+  
 </p>
 
 ---
@@ -29,7 +29,7 @@ en este repositorio veremos disrintas clses de codigos y variables unos de ellos
 
 ## 📢 Eventos
 
-Diseñaremos y programaremos por grupos una serie de paginas para el evento de CBAGRO, un evento realizado por el Sena de esos grupos se elijira una pagina, y esta pagina quedara como la official del CBAAGRO 2022
+Diseñaremos y programaremos por grupos una serie de paginas para el evento de CBAGRO, un evento realizado por el Sena de esos grupos se elerira una pagina, y esta pagina quedara como la official del CBAAGRO 2022
 
 
 ## 💼 EVIDENCIAS: 
@@ -43,8 +43,6 @@ Diseñaremos y programaremos por grupos una serie de paginas para el evento de C
 * Drap_Drog
 * Proyecto SASS_NAVBAR 
 ---
-
-
 
 ## 📜 License
 
