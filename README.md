@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-<!--
 
 <p align="center">
 <img src="assets/india_invertocat.png" width="150">
