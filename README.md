@@ -5,17 +5,31 @@
 
 ---
 
-# buenos dias  🇮🇳
+# buenos dias
 
 buenos dias este es mi repositorio de la ficha tecnica 2558346.
 
- * 
+
+
 
 ## 🧑‍💻  diseño y programacion de sofware. 
 
-The open-source ecosystem in India is thriving with many contributors & maintainers from India and open-source projects being built in India. We are here to help developers, contributors and maintainers in their journey towards open-source.
-
-### Projects and Maintainers from India
+en este repositorio veremos disrintas clses de codigos y variables unos de ellos que veremos son .
+* Html5
+* Css
+* Js
+* SASS
+* Scss
+* 
+### los proyectos que encontratra son: 
+* 4 verciones distintas de una serie de paginas. 
+* Maquetados Bootstrap.
+* Maquetados de paginas web donde veremos encabezado, menu aleatorio, cuerpo y un pie de pagina.
+* Modals 
+* SASS
+* Cards
+* Drap_ Drog
+* Proyecto SASS_NAVBAR 
 
 There are many open-source projects that we might be using frequently, but unaware that it's a project that was created in or receiving significant contributions from India. We have collated some of the projects and maintainers from India on the [githubindia.com website](https://githubindia.com)
 
