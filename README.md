@@ -1,37 +1,17 @@
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
 </p>
 
 ---
 
-# Welcome to GitHub India 🇮🇳
+# buenos dias  🇮🇳
 
-In this repo, you can find resources and information for the developer community in India.
+buenos dias este es mi repositorio de la ficha tecnica 2558346.
 
- * [Open Source](#--open-source)
-     * [GitHub Grants for Open Source](#github-grants-for-open-source)
-     * [Resources](#resources)
-* [Developers](#octocat--developers)
-     * [Meetups](#meetups)
-     * [GitHub Stars](#github-stars)
-     * [The ReadME Project](#the-readme-project)
-* [Students](#-students)
-     * [Campus Program](#campus-program)
-     * [Student Developer Pack](#student-developer-pack)
-     * [Campus Experts](#campus-experts)
-* [Startups](#-startups)
-     * [GitHub for startups](#github-for-startups)
-* [Events](#-events)
-     * [GitHub Universe 2022](#github-universe-2022)
-* [Careers](#-careers)
-* [Let's connect](#-lets-connect)
-* [Contributing](#️contributing)
-* [License](#-license)
+ * 
 
----
-
-## 🧑‍💻  Open Source
+## 🧑‍💻  diseño y programacion de sofware. 
 
 The open-source ecosystem in India is thriving with many contributors & maintainers from India and open-source projects being built in India. We are here to help developers, contributors and maintainers in their journey towards open-source.
 
